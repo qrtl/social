@@ -51,6 +51,9 @@ This field it's initialized to true to keep the standard behavior.
 .. figure:: https://raw.githubusercontent.com/OCA/social/15.0/mail_optional_follower_notification/static/description/optional_follower_002.png
    :alt: Checkbox to avoid to notify automatically followers
 
+.. figure:: https://raw.githubusercontent.com/OCA/social/15.0/mail_optional_follower_notification/static/description/optional_follower_003.png
+   :alt: Checkbox to set the default for the wizard
+
 Bug Tracker
 ===========
 
@@ -76,6 +79,7 @@ Contributors
 * Laurent Mignon <laurent.mignon@acsone.eu>
 * Andrea Stirpe <a.stirpe@onestein.nl>
 * Robin Goots <robin.goots@dynapps.be>
+* Quan Nguyen <quan.nhm@komit-consulting.com>
 
 Maintainers
 ~~~~~~~~~~~
