@@ -43,7 +43,7 @@ addon | version | maintainers | summary
 [mail_no_user_assign_notification](mail_no_user_assign_notification/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Mail No user Assign Notification
 [mail_notification_custom_subject](mail_notification_custom_subject/) | 15.0.1.0.2 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Apply a custom subject to mail notifications
 [mail_optional_autofollow](mail_optional_autofollow/) | 15.0.1.0.0 |  | Choose if you want to automatically add new recipients as followers on mail.compose.message
-[mail_optional_follower_notification](mail_optional_follower_notification/) | 15.0.1.0.1 |  | Choose to notify followers on mail.compose.message
+[mail_optional_follower_notification](mail_optional_follower_notification/) | 15.0.1.0.2 |  | Choose to notify followers on mail.compose.message
 [mail_outbound_static](mail_outbound_static/) | 15.0.1.0.1 |  | Allows you to configure the from header for a mail server.
 [mail_parent_recipient](mail_parent_recipient/) | 15.0.1.0.0 |  | Send email to parent partner if partner's email is empty
 [mail_partner_opt_out](mail_partner_opt_out/) | 15.0.1.0.0 |  | Add the partner's email to the blackmailed list
