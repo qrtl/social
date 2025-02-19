@@ -1,0 +1,12 @@
+<odoo>
+    <template
+        id="message_notification_email_inherit"
+        inherit_id="mail.message_notification_email"
+    >
+        <xpath expr="//span[@t-if='company.name']/parent::p" position="attributes">
+            <attribute
+                name="t-if"
+            >not record.env.context.get('hide_mail_footer')</attribute>
+        </xpath>
+    </template>
+</odoo>
